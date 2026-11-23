@@ -1,0 +1,31 @@
+body {
+    background-image: url("Fondo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+table {
+    width: 80%;
+}
+
+td {
+    text-transform: uppercase;
+}
+
+p{
+    border: 2px solid rgb(0, 153, 255);
+    width: 700px;
+    height: auto;
+    text-align:left;
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient(to left, rgb(101, 85, 248), rgb(111, 119, 241), rgb(148, 221, 255));
+    color: rgb(0, 0, 0);
+}
